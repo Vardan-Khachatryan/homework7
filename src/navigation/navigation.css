@@ -1,0 +1,17 @@
+.Navigation {
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Navigation Link {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.Navigation Link:hover {
+  text-decoration: underline;
+}
